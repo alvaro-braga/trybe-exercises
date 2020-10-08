@@ -1,0 +1,1 @@
+Repositório destinado a códigos relacionados a exercícios e projetos realizados no decorrer do curso de desenvolvimento de software web da Trybe. Um curso voltado não somente para o ensino de hard skills, mas também o desenvolvimento de soft-skills.
