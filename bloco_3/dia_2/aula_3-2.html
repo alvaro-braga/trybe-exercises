@@ -4,27 +4,53 @@
     <meta charset="UTF-8">
     <title>Dia 3.2</title>
     <style>
+        body {
+            font-size: 16px;
+        }
+
         h1 {
+            font-family: sans-serif;
             font-size: 65px;
             color: orange;
+            text-align: center;
+            text-decoration: underline;
         }
 
         li {
             background-color: grey;
+            font-style: italic;
+            line-height: 30px;
+        }
+        #A {
+            background-color: yellow;
+        }
+
+        #P {
+            background-color: black;
+            color: white;
+        }
+
+        #B {
+            background-color: white;
         }
 
         .p-ul-color {
             background-color: yellow;
-        }        
+        }   
+
+        p {
+            font-weight: 600;
+            font-size: 3em;
+        }     
     </style>
 </head>
 <body>
     <h1>Exercícios 3.2</h1>
     <p class="p-ul-color">Qual sua cor favorita?</p>
     <ul class="p-ul-color">
-        <li>Amarelo</li>
-        <li>Preto</li>
-        <li>Branco</li>
+        <li id="A">Amarelo</li>
+        <li id="P">Preto</li>
+        <li id="B">Branco</li>
     </ul>
 </body>
 </html> 
