@@ -7,6 +7,13 @@
     border: black solid 3px;
 }
 
+#img_2 {
+    width: 300px;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+}
+
 .title {
     font-family: fantasy, sans-serif;
 }
