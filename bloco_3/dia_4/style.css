@@ -1,0 +1,25 @@
+#img_1 {
+    width: 390px;
+    position: relative;
+    float: left;
+    margin-right: 15px;
+    margin-left: 10px;
+    border: black solid 3px;
+}
+
+.title {
+    font-family: fantasy, sans-serif;
+}
+
+.description {
+    background-color: springgreen;
+    padding: 1px;
+}
+
+.section_title {
+    margin-left: 10px;
+}
+
+.font_text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
